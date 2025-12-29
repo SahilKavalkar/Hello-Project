@@ -1,2 +1,2 @@
 Hello git!
-This the new line
+this the new line!
